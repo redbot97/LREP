@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Purple 
 Red
@@ -7,3 +7,4 @@ car
 Green
 number
 18
+Unicorns have horns
