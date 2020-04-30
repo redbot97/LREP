@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Purple 
 Red
@@ -8,3 +8,4 @@ Green
 Yellow
 number
 18
+Unicorns have horns
